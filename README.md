@@ -30,7 +30,7 @@ Downloads the mp3 version of tracks from a spotify playlist from youtube
 - Go to spotify 
 - Copy the link of any playlist or album 
 > https://open.spotify.com/playlist/0FpcTWSefFG3Ive4BNbawj?si=40cbd2b471c84e2b
-- Copy the playlist ID which is the part between the last '/' and '?'
+- Copy the playlist ID which is the part between the last '/' and '?' in the link
 > 0FpcTWSefFG3Ive4BNbawj
 - Replace '{INSERT_YOUR_SPOTIFY_PLAYLIST_ID}' in line 12 of SYmp3.py with your playlist ID
 - Replace '{SELECT_A_PATH}' in line 13 with the path of where you would like the downloaded songs
