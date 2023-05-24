@@ -19,9 +19,12 @@ Downloads the mp3 version of tracks from a spotify playlist from youtube
 
 ### Installing the required libs
 
-- pip install spotipy [github url](https://github.com/spotipy-dev/spotipy)
-- pip install youtube-search-python [github url](https://github.com/alexmercerind/youtube-search-python)
-- pip install pytube [github url](https://github.com/pytube/pytube)
+- pip install spotipy 
+  - [github url](https://github.com/spotipy-dev/spotipy)
+- pip install youtube-search-python 
+  - [github url](https://github.com/alexmercerind/youtube-search-python)
+- pip install pytube 
+  - [github url](https://github.com/pytube/pytube)
 
 ## How to use
 
